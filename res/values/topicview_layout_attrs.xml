@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mainText" format="string" />
+    <attr name="mainTextSize" format="dimension" />
+    <attr name="mainTextColor" format="color" />
+    <attr name="mainPaddingLeft" format="dimension" />
+    <attr name="mainPaddingTop" format="dimension" />
+    <attr name="mainPaddingRight" format="dimension" />
+    <attr name="mainPaddingBottom" format="dimension" />
+    <attr name="mainBackgroundColor" format="color" />
+    <attr name="subTextSize" format="dimension" />
+    <attr name="subTextColor" format="color" />
+    <attr name="subPaddingLeft" format="dimension" />
+    <attr name="subPaddingTop" format="dimension" />
+    <attr name="subPaddingRight" format="dimension" />
+    <attr name="subPaddingBottom" format="dimension" />
+    <attr name="subBackgroundColor" format="color" />
+   
+    <declare-styleable name="TopicView">
+        <attr name="mainText" />
+        <attr name="mainTextSize" />
+        <attr name="mainTextColor" />
+        <attr name="mainPaddingLeft" />
+        <attr name="mainPaddingTop" />
+        <attr name="mainPaddingRight" />
+        <attr name="mainPaddingBottom" />
+        <attr name="mainBackgroundColor" />
+        <attr name="subTextSize" />
+        <attr name="subTextColor" />
+        <attr name="subPaddingLeft" />
+        <attr name="subPaddingTop" />
+        <attr name="subPaddingRight" />
+         <attr name="subPaddingBottom" />
+        <attr name="subBackgroundColor" />
+
+    </declare-styleable>
+</resources>

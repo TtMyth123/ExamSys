@@ -1,0 +1,2 @@
+D:\TtWork\java\ExamSys\ExamSysDB.db3:BDB0113 Thread/process 9988/6436 failed: BDB1507 Thread died in Berkeley DB library
+D:\TtWork\java\ExamSys\ExamSysDB.db3:BDB0113 Thread/process 2436/8680 failed: BDB1507 Thread died in Berkeley DB library

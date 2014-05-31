@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">ExamSys</string>
+    <string name="buttonOpenExaminationIntro">进入</string>
+    <string name="buttonStartExam">开始考试</string>
+    <string name="buttonReturnExaminationPaper">返回</string>
+    <string name="textViewTimeHint">时间:</string>
+    <string name="textViewTimeHintMinute">分钟</string>
+    <string name="textViewExamTitle">模拟试卷一</string>
+    <string name="MSG_NOExam">没有选择试卷</string>
+    <string name="textViewTime">0</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.TtMyth123.examsys"
+    android:id="@+id/linearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="B" />
+
+    <com.TtMyth123.examsys.view.TopicView
+        android:id="@+id/topicView1"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        app:mainText="aa" >
+    </com.TtMyth123.examsys.view.TopicView>
+
+    <com.TtMyth123.examsys.view.MainSubSingleChangeTest
+        android:id="@+id/mainSubSingleChangeTest1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         >
+
+    </com.TtMyth123.examsys.view.MainSubSingleChangeTest>
+
+</LinearLayout>
